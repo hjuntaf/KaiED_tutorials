@@ -60,7 +60,7 @@ $ jupyter notebook
 
 
 ## 3. Tutorial contents
-Following parts are included.
+The following concepts are included.
 - Quantum many-body basis state manipulations
 - Quantum many-body wavefunction manipulations
 - Green functions
